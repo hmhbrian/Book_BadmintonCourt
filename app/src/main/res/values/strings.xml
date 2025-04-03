@@ -1,0 +1,37 @@
+<resources>
+    <!--  string tên app -->
+    <string name="app_name">Đặt sân cầu lông HTT</string>
+    <string name="hello_fragment">Hello fragment!</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>"
+    <!--  Các string label và hint dùng khi menu trái -->
+    <string name="open_nav">open_nav</string>
+    <string name="close_nav">close_nav</string>
+    <string name="about_us">Về chúng tôi</string>
+    <string name="logout">Thoát</string>
+    <string name="settings">Cài đặt</string>
+    <string name="share">Chia sẻ</string>
+    <string name="home">Trang chủ</string>
+    <string name="user">Cá Nhân</string>
+    <string name="noti">Giải Đấu</string>
+    <string name="history">Lịch sử</string>
+
+    <!--  Các string label và hint dùng khi đăng ký -->
+    <string name="phone_text">Số điện thoại</string>
+    <string name="pass_label">Mật khẩu</string>
+    <string name="pass_hint">VD: 123456(nhiều hơn 6 số)</string>
+    <string name="hint_phone">VD: 0123456789(10-11 chữ số)</string>
+    <string name="email_text">Email</string>
+    <string name="hint_email">VD: thuan@gmail.com</string>
+    <string name="name_text">Họ và tên</string>
+    <string name="hint_name">VD: Nguyễn Minh Thuận</string>
+    <string name="gender_text">Giới tính</string>
+    <string name="dob_text">Ngày sinh</string>
+    <string name="hint_dob">15/11/2003</string>
+    <string name="update_info_text">Cập nhật thông tin</string>
+    <string name="register">Đăng ký</string>
+    <string name="register_label">Thông tin đăng ký</string>
+<string name="tieude1">Top 5 cây vợt cầu lông thiên công giá tầm giá 1 triệu đến 1 triệu 3 đáng mua nhất hiện nay</string>
+    <string name="tieude2">Top những cây vợt cầu lông màu hồng hot nhất 2024</string>
+
+</resources>
